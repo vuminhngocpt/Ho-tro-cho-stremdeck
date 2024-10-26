@@ -14,6 +14,8 @@
   ✍️ [Mã Nguồn Tham Khảo 1](https://github.com/Number10Ox/stream-deck-driver) 
   ✍️ [ Mã Nguồn Tham Khảo 2](https://github.com/mKenfenheuer/steam-deck-windows-usermode-driver) 
 
+#### Các ứng dụng liên quan 
 
+[ Elgato Stream deck ](https://elgato-stream-deck.en.uptodown.com/windows/download)
 
        Minh Ngoc ©
