@@ -2,7 +2,7 @@
 
 #### Các Phần Mềm Cần Thiết 
 
-- Lưu ý : các bạn nếu ở Việt Nam 🇻🇳 thì cần yêu cầu cài đặt VPN hoặc vượt tường lửa mới có thể dùng được hoặc vào được các trang phía dưới
+- Lưu ý : các bạn nếu ở Việt Nam 🇻🇳 thì cần yêu cầu cài đặt VPN hoặc vượt tường lửa mới có thể dùng được hoặc vào được các trang phía dưới - Đối với máy Steam Deck bạn cài HỆ ĐIỀU HÀNH KHÁC như mọi hệ thống PC bình thường không khác gì 1 chiếc PC thực thụ 
 
  👨‍🏫 [ Hướng Dẫn ](404)
  
