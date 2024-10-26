@@ -9,4 +9,9 @@
 
 #### Mã Nguồn Có Lên Quan 
 
-  ✍️ [Mã Nguồn Tham Khảo](https://github.com/Number10Ox/stream-deck-driver) 
+  ✍️ [Mã Nguồn Tham Khảo 1](https://github.com/Number10Ox/stream-deck-driver) 
+  ✍️ [ Mã Nguồn Tham Khảo 2](https://github.com/mKenfenheuer/steam-deck-windows-usermode-driver) 
+
+
+
+       Minh Ngoc ©
