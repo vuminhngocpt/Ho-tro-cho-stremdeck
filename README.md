@@ -12,9 +12,9 @@
  
  🟩  [ Hướng Dẫn Khôi Phục Cài Đặt Hệ Thống](https://help.steampowered.com/vi/faqs/view/1B71-EDF2-EB6D-2BB3)
 
-  🧩 [Tải HDH Windows 10 Pc](https://www.microsoft.com/en-au/software-download/windows10ISO)
+  -🧩 [Tải HDH Windows 10 Pc](https://www.microsoft.com/en-au/software-download/windows10ISO)
   
-  🧩 [Tải HĐH Windows 11 Pc](Test)
+ -🧩 [Tải HĐH Windows 11 Pc](https://www-microsoft-com.translate.goog/en-us/software-download/windows11?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=tc)
 
 #### Mã Nguồn Có Lên Quan 
 
